@@ -4,7 +4,7 @@ Hi, I'm Jerry! This is my work-in-progress portfolio as I try and become a Data 
 
 📚 **Projects**
 --- 
-You can find my projects on my portfolio
+You can find my projects on my [portfolio.](https://github.com/jchen03/Portfolio)
 
 🛠️ Tools
 --- 
